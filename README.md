@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
 
-Vue3 + typescript + pinia + Element Plus 后台通用管理系统模版。[线上演示](http://admin-template.caixiaoxin.cn)
+Vue3 + typescript + pinia + Element Plus 后台通用管理系统模版。
 
 
 ## 安装步骤
